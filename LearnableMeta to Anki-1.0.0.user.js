@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         LearnableMeta to Anki
 // @namespace    http://tampermonkey.net/
-// @version      2.0.0
-// @description  Extract content from LearnableMeta to quickly create Anki decks to aid with memorisation.
+// @version      1.0.0
+// @description  Extract content from LearnableMeta to quickly create Anki decks to aid with memorisation of meta.
 // @author       NeuroForgeStudios <https://github.com/NeuroforgeStudios>
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
